@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Hospital Management system**
 
-- 🌱 I’m currently learning **Next.JS**
+- 🌱 I’m currently learning **Next.JS, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://mani-webdev.netlify.app/](https://mani-webdev.netlify.app/)
 
