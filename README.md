@@ -20,24 +20,22 @@
 
 ### 🛠️ Languages, Frameworks & Tools
 <p align="left">
-  <!-- Core Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,framer" />
-  
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,c,cpp" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,framer" />
+
   <!-- Backend & Databases -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,prisma" />
-  
-  <!-- Cloud & Deployment -->
-  <img src="https://skillicons.dev/icons?i=vercel,googlecloud,firebase,git,postman,npm,markdown" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" height="28" />
-  
+
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=firebase,vercel,googlecloud,git,postman,npm,markdown" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="45" height="45" alt="Render" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpanel/cpanel-original.svg" width="45" height="45" alt="cPanel" />
+
   <!-- Tools & Workflow -->
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" height="28" />
-  
-  <!-- Programming Fundamentals -->
-  <img src="https://skillicons.dev/icons?i=java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=figma,jira,trello" />
 </p>
 
 ---
