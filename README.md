@@ -20,7 +20,24 @@
 
 ### 🛠️ Languages, Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgresql,mysql,prisma,java,c,cpp,tailwind,figma,postman,git,vercel,render,googlecloud,firebase,cpanel,threejs,framer,npm,markdown,jira,trello" />
+  <!-- Core Languages & Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs,framer" />
+  
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgresql,mysql,prisma" />
+  
+  <!-- Cloud & Deployment -->
+  <img src="https://skillicons.dev/icons?i=vercel,googlecloud,firebase,git,postman,npm,markdown" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" height="28" />
+  
+  <!-- Tools & Workflow -->
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" height="28" />
+  
+  <!-- Programming Fundamentals -->
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" />
 </p>
 
 ---
