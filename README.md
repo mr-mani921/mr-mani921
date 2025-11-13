@@ -20,8 +20,7 @@
 
 ### 🛠️ Languages, Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,c,cpp,tailwind,figma,postman,git,vercel" />
-  <img src="https://skillicons.dev/icons?i=threejs,framer" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgresql,mysql,prisma,java,c,cpp,tailwind,figma,postman,git,vercel,render,googlecloud,firebase,cpanel,threejs,framer,npm,markdown,jira,trello" />
 </p>
 
 ---
