@@ -58,12 +58,23 @@
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-mani921&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-mani921&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
+<img src="https://streak-stats.demolab.com?user=mr-mani921&theme=dark" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=mr-mani921&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-mani921&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy-three.vercel.app/?username=mr-mani921&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+</div>
 
 ## 🏆 Achievements & Highlights
 
