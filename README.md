@@ -67,20 +67,20 @@
 <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-mani921&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/>
+<!--
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-mani921&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> -->
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-mani921&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy-three.vercel.app/?username=mr-mani921&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
-
-## 🏆 Achievements & Highlights
+-->
+<!-- ## 🏆 Achievements & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy-three.vercel.app/?username=mr-mani921&theme=tokyonight" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
