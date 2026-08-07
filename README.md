@@ -59,14 +59,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mr-mani921&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mr-mani921&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-mani921&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mani921&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy-three.vercel.app/?username=mr-mani921&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-mani921&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
