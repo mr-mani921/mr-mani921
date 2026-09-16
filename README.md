@@ -1,20 +1,20 @@
-<h1 align="center">Hey there 👋, I'm M. Usman Raza</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Freelancer</h3>
+<h1 align="center">Hey there 👋, I'm Muhammad Usman Raza</h1>
+<h3 align="center">Full Stack Engineer | System Architect </h3>
 
 <p align="center">
-  🚀 Building scalable, modern web apps and SaaS products with <strong>MERN</strong>, <strong>TypeScript</strong>, and <strong>AI integrations</strong>.  
+  🚀 Building scalable, modern web apps and SaaS products with <strong>TypeScript</strong>, <strong>ASP.NET Core</strong> and <strong>AI integrations</strong>.  
   Passionate about clean UI, meaningful products, and continuous learning.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working at **Intercraft Pvt. Ltd.** on an **AI SaaS product**  
+- 💼 Currently working at **eXapp.pvt Ltd.** on an **Smart Workforce Managment System Build for UK**  
 - 💻 Also freelancing as a **Full Stack Developer**  
 - 🤖 Exploring **AI Tech** — LLMs, Agents, and Smart Integrations  
 - 🌐 Portfolio: [mani-webdev.netlify.app](https://mani-webdev.netlify.app/)  
-- 💬 Ask me about **React, Next.js, TypeScript, Node.js, MongoDB, Express, R3F, and more**  
-- 📫 Reach me at: **usman.mani.10011@gmail.com**
+- 💬 Ask me about **React, Next.js, TypeScript, Blazor, Node.js, ASP.NET CORE, SQL, Postgres and more**  
+- 📫 Reach me at: **m.usman.raza.12@outlook.com**
 
 ---
 
