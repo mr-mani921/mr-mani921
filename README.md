@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Usman Raza</h1>
-<h3 align="center">Full Stack Engineer | System Architect </h3>
+<h3 align="center">Full Stack Engineer </h3>
 
 <p align="center">
-  🚀 Building scalable, modern web apps and SaaS products with <strong>TypeScript</strong>, <strong>ASP.NET Core</strong> and <strong>AI integrations</strong>.  
+  🚀 Building scalable, modern web apps and SaaS products with <strong>TypeScript</strong>, <strong>Python</strong>, <strong>ASP.NET Core</strong> and <strong>AI integrations</strong>.  
   Passionate about clean UI, meaningful products, and continuous learning.
 </p>
 
@@ -10,10 +10,9 @@
 
 ### 👨‍💻 About Me
 - 💼 Currently working at **eXapp.pvt Ltd.** on an **Smart Workforce Managment System Build for UK**  
-- 💻 Also freelancing as a **Full Stack Developer**  
+- 💻 Also freelancing as a **Full Stack Engineer**  
 - 🤖 Exploring **AI Tech** — LLMs, Agents, and Smart Integrations  
-- 🌐 Portfolio: [mani-webdev.netlify.app](https://mani-webdev.netlify.app/)  
-- 💬 Ask me about **React, Next.js, TypeScript, Blazor, Node.js, ASP.NET CORE, SQL, Postgres and more**  
+- 💬 Ask me about **React, Next.js, TypeScript, Python, FastAPI, Node.js, ASP.NET CORE, SQL, Postgres and more**  
 - 📫 Reach me at: **m.usman.raza.12@outlook.com**
 
 ---
