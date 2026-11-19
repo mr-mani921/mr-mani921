@@ -1,19 +1,26 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Usman Raza</h1>
-<h3 align="center">Full Stack Engineer </h3>
+<h3 align="center">Full Stack Engineer | Co-founder at AMANRIC</h3>
 
 <p align="center">
-  🚀 Building scalable, modern web apps and SaaS products with <strong>TypeScript</strong>, <strong>Python</strong>, <strong>ASP.NET Core</strong> and <strong>AI integrations</strong>.  
-  Passionate about clean UI, meaningful products, and continuous learning.
+I help organizations build, improve and integrate software systems across web applications, backend services, APIs and data workflows.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working at **eXapp.pvt Ltd.** on an **Smart Workforce Managment System Build for UK**  
-- 💻 Also freelancing as a **Full Stack Engineer**  
-- 🤖 Exploring **AI Tech** — LLMs, Agents, and Smart Integrations  
-- 💬 Ask me about **React, Next.js, TypeScript, Python, FastAPI, Node.js, ASP.NET CORE, SQL, Postgres and more**  
-- 📫 Reach me at: **m.usman.raza.12@outlook.com**
+
+I work across software systems, from the interfaces people interact with to the backend logic, APIs, databases and integrations that make everything work together.
+
+I’m a Full Stack Engineer and Co-founder at [AMANRIC](https://amanric.com), an engineering-led technology services company helping organizations build, improve and integrate software systems.
+
+My experience spans product development and existing applications, including complex business workflows, transaction-based platforms, real-time systems and third-party integrations. My approach is to understand the problem, business rules and technical constraints before deciding on a solution.
+
+### Selected Work
+
+- **WASA Sialkot** — Public-facing civic information platform. [View website](https://wasasialkot.netlify.app/)
+- **Tempus Rex** — Watch marketplace product and backend engineering assessment. [View product](https://tempusrextimeking.com/)
+
+These examples reflect my individual professional and independent experience; they are not a record of AMANRIC-delivered engagements.
 
 ---
 
@@ -88,18 +95,22 @@
 ---
 
 ### 🌍 Connect With Me
+
+- [AMANRIC](https://amanric.com)
+- [Email](mailto:m.usman.raza.12@outlook.com)
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/m-usman-webdev/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-raza-engineer/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   <a href="https://instagram.com/mr_mani921" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
 </p>
 
 ---
 
 ### 🧠 Currently Exploring
-> - AI-driven applications (Agents, LLM APIs, Context-aware SaaS tools)  
-> - Integrating smart automation into web platforms  
-> - 3D interfaces & immersive UI with React Three Fiber  
+
+- AI-enabled applications and practical automation
+- Building reliable integrations and maintainable software systems
 
 ---
 
-<p align="center">✨ “Code. Learn. Build. Repeat.” ✨</p>
+<p align="center">Engineering systems from interface to infrastructure.</p>
