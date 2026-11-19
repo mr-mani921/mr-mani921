@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Muhammad Usman Raza</h1>
-<h3 align="center">Full Stack Engineer | Co-founder at AMANRIC</h3>
+<h3 align="center">Software Engineer | Co-founder at AMANRIC</h3>
 
 <p align="center">
 I help organizations build, improve and integrate software systems across web applications, backend services, APIs and data workflows.
@@ -11,7 +11,7 @@ I help organizations build, improve and integrate software systems across web ap
 
 I work across software systems, from the interfaces people interact with to the backend logic, APIs, databases and integrations that make everything work together.
 
-I’m a Full Stack Engineer and Co-founder at [AMANRIC](https://amanric.com), an engineering-led technology services company helping organizations build, improve and integrate software systems.
+I’m a Software Engineer and Co-founder at [AMANRIC](https://amanric.com), an engineering-led technology services company helping organizations build, improve and integrate software systems.
 
 My experience spans product development and existing applications, including complex business workflows, transaction-based platforms, real-time systems and third-party integrations. My approach is to understand the problem, business rules and technical constraints before deciding on a solution.
 
